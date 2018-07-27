@@ -24,7 +24,7 @@ DISPLAY_WIDTH   = 1280
 DISPLAY_HEIGHT  = 755
 DISPLAY         = pygame.display.set_mode((DISPLAY_WIDTH, DISPLAY_HEIGHT))
 DISPLAY_CLOCK   = pygame.time.Clock()
-BG_IMAGE        = pygame.image.load('assets/images/BG_1.png').convert()
+BG_IMAGE        = pygame.image.load('assets/images/background.png').convert()
 BG_COLOR        = NEARBLACK
 FPS             = 30
 
