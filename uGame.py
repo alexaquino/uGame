@@ -565,7 +565,6 @@ while True:
             #    if PLAYER_2:
             #        fireShell_p2(gun_p2_center_x, gun_p2_center_y, p2_angle, p2_power)
 
-
     # DISPLAY ------------------------------------------------------------------
 
     # BACKGROUND
